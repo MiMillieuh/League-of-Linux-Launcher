@@ -1,7 +1,7 @@
 #!bin/bash
 DXVKver="1.9.3"
 DXVK=https://github.com/doitsujin/dxvk/releases/download/v$DXVKver/dxvk-$DXVKver.tar.gz
-WINELOLtag"7.0-GE-1-LoL"
+WINELOLtag="7.0-GE-1-LoL"
 WINELOLver="wine-lutris-ge-7.0-1-lol"
 WINELOL="https://github.com/GloriousEggroll/wine-ge-custom/releases/download/$WINELOLtag/$WINELOLver-x86_64.tar.xz"
 
