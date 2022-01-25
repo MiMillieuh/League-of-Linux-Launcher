@@ -1,5 +1,5 @@
 #!bin/bash
-DXVKver=1.9.3
+DXVKver="1.9.3"
 DXVK=https://github.com/doitsujin/dxvk/releases/download/v$DXVKver/dxvk-$DXVKver.tar.gz
 echo $DXVK
 
