@@ -6,7 +6,7 @@ then
     killall RiotClientUX.exe
     sleep 10
     mv lutris* winelol
-    WINEPREFIX=~/.LeagueOfLegends/prefix winelol/bin/wine "prefix/drive_c/Riot Games/Riot Client/RiotClientServices.exe" --launch-product=league_of_legends --launch-patchline=live
+    WINEPREFIX=~/.LeagueOfLegends/prefix ~/.LeagueOfLegends/winelol/bin/wine "~/.LeagueOfLegends/prefix/drive_c/Riot Games/Riot Client/RiotClientServices.exe" --launch-product=league_of_legends --launch-patchline=live
     
 else
     echo "Stopped"
