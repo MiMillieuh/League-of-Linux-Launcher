@@ -3,7 +3,7 @@
 cerealkiller () {
 if pgrep -x "RiotClientUx.exe" > /dev/null
 then
-    sleep 10 
+    sleep 30 
     killall RiotClientUX.exe
     sleep 10
     mv ~/.LeagueOfLegends/lutris* ~/.LeagueOfLegends/winelol
