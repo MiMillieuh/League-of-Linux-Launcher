@@ -1,7 +1,5 @@
 #!/bin/bash
 
-cerealkiller
-
 cerealkiller () {
 if pgrep -x "RiotClientUx.exe" > /dev/null
 then
